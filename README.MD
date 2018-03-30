@@ -11,11 +11,11 @@
 #### 2. Include jKonamiCode.js
 From release
 ```html
-<script src="js/jKonamiCode.js" type="text/javascript"></script>
+<script src="jKonamiCode.js" type="text/javascript"></script>
 ```
-Or from CDN (hosted by)
+Or from CDN hosted by [jsDelivr](https://www.jsdelivr.com/)
 ```html
-<script src="js/jKonamiCode.js" type="text/javascript"></script>
+<script src="//cdn.jsdelivr.net/gh/Leoche/jKonamiCode@1.0.0/jKonamiCode.js" type="text/javascript"></script>
 ```
 #### 3. Initialize the plugin
 ```html
